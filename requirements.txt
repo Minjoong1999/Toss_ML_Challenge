@@ -1,0 +1,10 @@
+# 필수 라이브러리 및 버전 정보
+
+pandas==2.2.2
+polars==1.25.2
+numpy==2.0.2
+lightgbm==4.6.0
+xgboost==3.0.5
+scikit-learn==1.6.1
+joblib==1.5.2
+catboost==1.2.8

@@ -1,0 +1,22 @@
+# Data files
+data/*.parquet
+data/*.csv
+
+# System files
+.DS_Store
+.DS_Store?
+
+# Python & Virtual Env
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Ignore large files if any others appear
+*.log
